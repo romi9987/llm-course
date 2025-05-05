@@ -2,5 +2,6 @@ notebook==7.1.2
 tqdm
 openai
 elasticsearch
-
+pandas
+scikit-learn
 
