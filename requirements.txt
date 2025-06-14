@@ -1,7 +1,9 @@
 notebook==7.1.2
+numpy==1.26.4
 tqdm
 openai
 elasticsearch
 pandas
 scikit-learn
-
+torch
+transformers
