@@ -2,8 +2,10 @@ notebook==7.1.2
 numpy==1.26.4
 tqdm
 openai
-elasticsearch
+elasticsearch==8.4.3
 pandas
 scikit-learn
 torch
 transformers
+qdrant-client[fastembed]>=1.14.2
+minsearch
