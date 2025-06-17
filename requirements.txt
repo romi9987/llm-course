@@ -9,3 +9,4 @@ torch
 transformers
 qdrant-client[fastembed]>=1.14.2
 minsearch
+python-docx
